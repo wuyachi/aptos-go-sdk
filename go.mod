@@ -1,6 +1,6 @@
-module github.com/portto/aptos-go-sdk
+module github.com/polynetwork/aptos-go-sdk
 
-go 1.18
+go 1.17
 
 require (
 	github.com/stretchr/testify v1.5.1

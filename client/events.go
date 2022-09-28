@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/portto/aptos-go-sdk/models"
+	"github.com/polynetwork/aptos-go-sdk/models"
 )
 
 type Events interface {

@@ -11,9 +11,9 @@ import (
 
 	"github.com/the729/lcs"
 
-	"github.com/portto/aptos-go-sdk/client"
-	"github.com/portto/aptos-go-sdk/crypto"
-	"github.com/portto/aptos-go-sdk/models"
+	"github.com/polynetwork/aptos-go-sdk/client"
+	"github.com/polynetwork/aptos-go-sdk/crypto"
+	"github.com/polynetwork/aptos-go-sdk/models"
 )
 
 const DevnetChainID = 32

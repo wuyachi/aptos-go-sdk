@@ -5,7 +5,7 @@ package client
 import (
 	context "context"
 
-	models "github.com/portto/aptos-go-sdk/models"
+	models "github.com/polynetwork/aptos-go-sdk/models"
 	mock "github.com/stretchr/testify/mock"
 )
 
