@@ -74,6 +74,7 @@ type Change struct {
 }
 
 type Event struct {
+	Version        string                 `json:"version"`
 	Key            string                 `json:"key"`
 	SequenceNumber string                 `json:"sequence_number"`
 	Type           string                 `json:"type"`
